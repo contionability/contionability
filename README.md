@@ -1,7 +1,7 @@
 ### Hi
 ### I'm Co丶Dynamic
  ![](https://github-readme-stats.vercel.app/api?username=contionability&show_icons=true&theme=tokyonight)
-
+![Metrics](https://metrics.lecoq.io/contionability?template=classic&isocalendar=1&stars=1&isocalendar.duration=half-year&stars.limit=4&config.timezone=Asia%2FShanghai)
 <!--
 **contionability/contionability** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
