@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi
+### I'm Co丶Dynamic
+ ![](https://github-readme-stats.vercel.app/api?username=contionability&show_icons=true&theme=tokyonight)
 
 <!--
 **contionability/contionability** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
