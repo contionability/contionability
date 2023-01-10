@@ -6,5 +6,4 @@
 </h3></div>
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=contionability&theme=light&background=FFFFFF"></img>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=contionability"></img>
 </div>
