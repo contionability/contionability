@@ -1,6 +1,6 @@
-<div align="center" fontsize="48px">
-  <strong>Hello </strong><img src="https://i0.hdslb.com/bfs/garb/item/522cfc3b4ace5ec899909e4de28fd9b3b0b22059.png@32w_32h.webp"></img>
-</div>
+<div align="center" font-size="48px"><h1>
+  <strong>Hello</strong><img src="https://i0.hdslb.com/bfs/garb/item/522cfc3b4ace5ec899909e4de28fd9b3b0b22059.png@32w_32h.webp"></img>
+</h1></div>
 <p align="center">
   <strong>I'm Co丶Dynamic</strong>
 </p>
