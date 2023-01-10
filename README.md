@@ -2,7 +2,7 @@
   <img src="https://i0.hdslb.com/bfs/garb/item/522cfc3b4ace5ec899909e4de28fd9b3b0b22059.png@32w_32h.webp"></img>
 </div>
 <p align="center">
-  <strong>I'm Co丶Dynamic<strong/>
+  <strong>I'm Co丶Dynamic</strong>
 </p>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=contionability&show_icons=true&theme=tokyonight"></img>
