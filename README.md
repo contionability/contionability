@@ -5,5 +5,5 @@
   <strong>I'm Co丶Dynamic🥰</strong>
 </h3></div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=contionability&show_icons=true&theme=tokyonight"></img>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=contionability&theme=light&background=FFFFFF"></img>
 </div>
