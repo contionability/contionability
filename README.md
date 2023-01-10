@@ -1,4 +1,4 @@
-<div align="center" fontsize=48px>
+<div align="center" size="48px">
   <strong>Hello </strong><img src="https://i0.hdslb.com/bfs/garb/item/522cfc3b4ace5ec899909e4de28fd9b3b0b22059.png@32w_32h.webp"></img>
 </div>
 <p align="center">
