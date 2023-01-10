@@ -1,5 +1,5 @@
 <div align="center" font-size="48px"><h2>
-  <strong>Hello</strong><img src="https://i0.hdslb.com/bfs/garb/item/522cfc3b4ace5ec899909e4de28fd9b3b0b22059.png@64w_64h.webp"></img>
+  <strong>Hello</strong><img src="https://i0.hdslb.com/bfs/garb/item/522cfc3b4ace5ec899909e4de28fd9b3b0b22059.png@48w_48h.webp"></img>
 </h2></div>
 <p align="center">
   <strong>I'm Co丶Dynamic</strong>
